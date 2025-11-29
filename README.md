@@ -130,7 +130,8 @@ int main() {
 
 $ ./sem.o
 
-![Producer Consumer Output 1](OSS-1.png)
+<img width="1150" height="1030" alt="image" src="https://github.com/user-attachments/assets/8658ada1-087f-43e4-9f25-5c86417c9fbb" />
+
 
 $ ipcs
 
