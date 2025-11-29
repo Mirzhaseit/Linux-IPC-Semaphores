@@ -24,7 +24,7 @@ Execute the C Program for the desired output.
 /*
  * sem.c - Producer-Consumer using Semaphores
  */
-
+```
 #include <stdio.h>      
 #include <stdlib.h>     
 #include <unistd.h>     
@@ -119,6 +119,9 @@ int main() {
 
     return 0;
 }
+```
+
+
 
 
 
@@ -127,10 +130,9 @@ int main() {
 $ ./sem.o 
 
 ![Producer Consumer Output 1](OSS-1.png)
-
 $ ipcs
-![Producer Consumer Output 2](OSS-2.png)
 
+![Producer Consumer Output 2](OSS-2.png)
 
 
 
