@@ -127,12 +127,15 @@ int main() {
 
 
 ## OUTPUT
-$ ./sem.o 
+
+$ ./sem.o
 
 ![Producer Consumer Output 1](OSS-1.png)
+
 $ ipcs
 
 ![Producer Consumer Output 2](OSS-2.png)
+
 
 
 
