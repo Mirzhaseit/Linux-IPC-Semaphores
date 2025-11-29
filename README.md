@@ -135,7 +135,8 @@ $ ./sem.o
 
 $ ipcs
 
-![Producer Consumer Output 2](OSS-2.png)
+<img width="1150" height="1030" alt="image" src="https://github.com/user-attachments/assets/650b2152-57a0-4ebc-b61e-5755b014a475" />
+
 
 
 
