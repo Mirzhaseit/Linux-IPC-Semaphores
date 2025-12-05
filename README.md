@@ -130,12 +130,14 @@ int main() {
 
 $ ./sem.o
 
-<img width="1150" height="1030" alt="image" src="https://github.com/user-attachments/assets/8658ada1-087f-43e4-9f25-5c86417c9fbb" />
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/a184a428-37a2-45d8-b76b-e867af8f3ebb" />
+
 
 
 $ ipcs
 
-<img width="1150" height="1030" alt="image" src="https://github.com/user-attachments/assets/650b2152-57a0-4ebc-b61e-5755b014a475" />
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/2952c8f3-d36c-41f8-8245-d246c8f760a6" />
+
 
 
 
